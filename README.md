@@ -1,4 +1,4 @@
-# visio-network-stencils
+# Visio Network Stencils (flat)
 I have created just a few standard Microsoft Visio Flat Network icons and they are available for all to use and share. The idea was to have network icons that are 2D instead of the 3D version for drawing consistency and making it easier to apply Visio diagram theme.
 
 These icons allow you to un-group and make changes to suit your need. The connectors are also created around the icon to allow attaching a line.
